@@ -1,0 +1,8 @@
+{
+  "verilog.linting.linter": "verilator",
+  "verilog.linting.verilator.arguments": "-Wall -Irtl/common -Irtl/core",
+  "files.associations": { "*.sv": "systemverilog" },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true
+}

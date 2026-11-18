@@ -1,0 +1,18 @@
+# Simulation output
+sim/out/
+*.vcd
+*.fst
+*.vvp
+obj_dir/
+
+# FPGA tool output (added when a board is chosen)
+build/
+*.bit
+
+# Editors / OS
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+.DS_Store
+Thumbs.db
