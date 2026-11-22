@@ -1,7 +1,6 @@
 # riscv-rv32i
 
-An RV32I RISC-V CPU written in SystemVerilog, built up component by component while
-reading *Digital Design and Computer Architecture, RISC-V Edition* (Harris & Harris).
+An RV32I RISC-V CPU written in SystemVerilog, built up component by component.
 
 Roadmap:
 
